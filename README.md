@@ -115,14 +115,6 @@ Building an end-to-end analytics solution using Microsoft Fabric for data ingest
 
 ---
 
-## 🤖 AutoSense AI
-
-**Description**
-
-AI-powered road safety and emergency response solution awarded **3rd Prize** at the **Chalapathi Mahotsav 2K25 Ideathon**.
-
----
-
 # 💼 Internship Experience
 
 ## Python Developer Intern — StaxTech
