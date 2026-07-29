@@ -43,6 +43,6 @@ Coming Soon...
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/kancharla-dakshanya-96b832329
+- LinkedIn: https://www.linkedin.com/in/dakshanya-kancharla-96b832329
 - GitHub: https://github.com/dakshanyakancharla12
 - Email: dakshanyakancharla@gmail.com
