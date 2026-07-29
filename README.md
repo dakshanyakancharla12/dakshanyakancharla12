@@ -149,27 +149,6 @@ AI-powered road safety and emergency response solution awarded **3rd Prize** at 
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=dakshanyakancharla12&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakshanyakancharla12&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=dakshanyakancharla12&theme=tokyonight"/>
-
-</p>
-
----
 
 # 🎯 Career Objective
 
