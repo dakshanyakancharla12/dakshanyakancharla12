@@ -1,19 +1,25 @@
-# Hi there, I'm Kancharla Dakshanya 👋
+-------------------------------------------------
 
-## ServiceNow Developer | Microsoft Fabric Data Engineer | Python Developer
+👋 Hi, I'm Kancharla Dakshanya
 
-🎓 Computer Science and Engineering Undergraduate
+ServiceNow Developer
+Microsoft Fabric Data Engineer
+Python Developer
 
-💼 Passionate about ServiceNow, Data Engineering, AI, and Cloud Technologies.
+--------------------------------------------
 
-🏆 Microsoft Certified: Fabric Data Engineer Associate (DP-700)
+About Me
 
-🏆 ServiceNow Certified Application Developer (CAD)
+Tech Stack
 
-🏆 ServiceNow Certified System Administrator (CSA)
+Certifications
 
-☁ Oracle Cloud Infrastructure AI Foundations Associate
+Projects
 
-📍 Andhra Pradesh, India
+GitHub Statistics
 
-📫 Email: dakshanyakancharla@gmail.com
+Contribution Graph
+
+Connect With Me
+
+--------------------------------------------
