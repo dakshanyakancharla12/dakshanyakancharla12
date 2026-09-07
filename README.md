@@ -55,15 +55,10 @@ I am a Computer Science and Engineering undergraduate with hands-on experience i
 
 # 🏆 Certifications
 
-- ✅ Microsoft Certified: Fabric Data Engineer Associate (DP-700)
 - ✅ ServiceNow Certified Application Developer (CAD)
 - ✅ ServiceNow Certified System Administrator (CSA)
-- ✅ Oracle Cloud Infrastructure 2025 AI Foundations Associate
-- ✅ Copado AI Certificate
-- ✅ Introduction to Networking for Cyber Professionals – Zscaler Academy
-- ✅ MongoDB Certification
-- ✅ Juniper Networking Certification
-
+- ✅ Microsoft Certified: Fabric Data Engineer Associate (DP-700)
+  
 ---
 
 # 🚀 Featured Projects
